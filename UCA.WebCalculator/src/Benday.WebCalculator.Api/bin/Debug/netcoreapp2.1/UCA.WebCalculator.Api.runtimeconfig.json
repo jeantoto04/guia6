@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "framework": {
+      "name": "Microsoft.AspNetCore.App",
+      "version": "2.1.1"
+    }
+  }
+}
